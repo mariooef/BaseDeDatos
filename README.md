@@ -13,4 +13,4 @@ El proyecto se basa en el desarrollo de un Data Warehouse para almacenar la info
 Este repositorio contiene los archivos necesarios, utilizados del proyecto.
 * DataFrames usados (estos fueron limpiados y recortados de los originales para poder trabajar con pocos datos).
 * Script que genera la arquitectura del Data Warehouse
-* La base de datos generada por el Data Warehouse 
+* Script que genera los datos que estan almacenados en el Data Warehouse
