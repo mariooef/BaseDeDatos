@@ -4,6 +4,8 @@
 > 
 > Docente evaluador : Dr. Juan Pablo Soto Barrera
 
+https://github.com/mariooef/BaseDeDatos/blob/main/MarioEstradaFerreira-Proyecto-BasedeDatos.pdf
+
 ### Descripción
 
 Proyecto de base de datos elaborado para el curso de base de datos para la maestria de ciencia de datos.
